@@ -1,0 +1,14 @@
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\bin\Debug\net6.0\Data.deps.json
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\bin\Debug\net6.0\Data.dll
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\bin\Debug\net6.0\Data.pdb
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.dll
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.pdb
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Projects\Meu Projeto Aprimorado\SolutionsMid_Laners\Data\obj\Debug\net6.0\ref\Data.dll
